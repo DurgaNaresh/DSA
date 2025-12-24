@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8b38f9c-3e83-4b5e-8296-6e94497dca38" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/durga/datastructures/leetcode/ArrayProgramsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/durga/datastructures/leetcode/StringPrograms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/durga/datastructures/leetcode/StringProgramsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/durga/patterns/AlphabetPatternPrograms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/durga/patterns/AlphabetPatternsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/durga/patterns/PatternsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/durga/patterns/PatternsPrograms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/durga/geeksforgeeks/ArrayPrograms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/durga/datastructures/geeksforgeeks/ArrayPrograms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/durga/geeksforgeeks/ArrayProgramsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/durga/datastructures/geeksforgeeks/ArrayProgramsMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/durga/geeksforgeeks/ArrayProgramsMainOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/durga/datastructures/geeksforgeeks/ArrayProgramsMainOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/durga/geeksforgeeks/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/durga/datastructures/geeksforgeeks/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/durga/leetcode/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/durga/datastructures/leetcode/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/durga/leetcode/LeetCodeArrayMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/durga/leetcode/LeetCodeArrayPrograms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/durga/datastructures/leetcode/ArrayPrograms.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2BBfyCP6a1X7xc5EGARisbGkTVr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../MyRepositories" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.durga" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StringProgramsMain">
+    <configuration name="AlphabetPatternsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.durga.patterns.AlphabetPatternsMain" />
+      <module name="Coding_Modules" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.durga.patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatternsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.durga.patterns.PatternsMain" />
+      <module name="Coding_Modules" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.durga.patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringProgramsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.durga.datastructures.leetcode.StringProgramsMain" />
+      <module name="Coding_Modules" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.durga.datastructures.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringProgramsMain" />
+        <item itemvalue="Application.AlphabetPatternsMain" />
+        <item itemvalue="Application.PatternsMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8b38f9c-3e83-4b5e-8296-6e94497dca38" name="Changes" comment="" />
+      <created>1656384657579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656384657579</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
