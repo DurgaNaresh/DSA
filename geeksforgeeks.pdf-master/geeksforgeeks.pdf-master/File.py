@@ -1,0 +1,7 @@
+from wkhtmltopdf import  WKhtmlToPdf, wkhtmltopdf
+
+make_pdf = HTMLURLToPDF(
+    url='https://www.geeksforgeeks.org/1s-2s-complement-binary-number/',
+    output_file='~/example.pdf',
+)
+make_pdf.render()
